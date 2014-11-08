@@ -24,7 +24,6 @@ fList2 = open(path2).readline()
 groups = fList2.split(":")
 barcode = groups[-1]
 
-#path3 = "%s" %folderName2
 
 #os.chdir("/Users/joshuahill/Dropbox (TxGen)/Share/Lab/joshtest/out1")
 #os.mkdir(barcode)
